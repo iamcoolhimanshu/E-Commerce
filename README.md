@@ -18,11 +18,16 @@ It allows users to browse products, add to cart, place orders, and admins to man
 ---
 ## Usage ---
 1- Run backend server first (Spring Boot)
+
 2- Run frontend server (React)
+
 3- Access the application at http://localhost:5173
+
 4- Use Postman to test APIs if needed
 
 ## Author- 
 Himanshu Vishwakarma
+
 GitHub: iamcoolhimanshu
+
 Email: iamcoolhimanshu.9636@gmail.com
